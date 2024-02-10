@@ -152,7 +152,7 @@ do
     local deckData = {
       slots = slots,
       taboo_id = deck.taboo_id,
-      investigatorId = deck.investigatorId,
+      investigatorId = deck.investigator_code,
       customizations = customizations,
       playerColor = playerColor,
       loadAltInvestigator = loadAltInvestigator
